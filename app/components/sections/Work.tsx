@@ -44,8 +44,8 @@ const Work = () => {
               {/* <ProjectSkils name="Tailwind Css" /> */}
             </div>
 
-            <Link href="/" className="mt-5">
-            <TbExternalLink className="size-[25px]"/>
+            <Link href="https://alt-exam-rho.vercel.app/" className="mt-5" target="_blank">
+              <TbExternalLink className="size-[25px] text-green-300 hover:text-white"/>
             </Link>
           </section>
 
@@ -87,13 +87,14 @@ const Work = () => {
               <Link
                 href="https://github.com/amaizu-great"
                 className="underline text-[15px] text-green-300 hover:text-white"
+                target="_blank"
               >
-                <span className="inline-flex items-center ">AltSchoolAfrica <TbExternalLink className="size-[15px]"/></span>
+                <span className="inline-flex items-center ">Great <TbExternalLink className="size-[15px]"/></span>
               </Link>{" "}
-              Whos is My Partner In This Projects, This Website is Special To Me
+              Who is My Partner In this Project, This Website is Special To Me
               Cause Most Of the Tools I Used In Building It, I Learnt Them While
               Building it, <br />
-              Ooh And The Website Is Still Under Production
+              Ooh And The Website Is Still Under Development
             </p>
 
             <div className="flex w-full flex-wrap gap-2">
@@ -103,8 +104,8 @@ const Work = () => {
               <ProjectSkils name="Tailwind Css" />
             </div>
 
-            <Link href="hhttps://alt-exam-rho.vercel.app//" className="mt-5">
-            <TbExternalLink className="size-[25px]"/>
+            <Link href="https://drip-with-ella.vercel.app/" className="mt-5" target="_blank">
+            <TbExternalLink className="size-[25px] text-green-300 hover:text-white"/>
             </Link>
           </section>
         </div>

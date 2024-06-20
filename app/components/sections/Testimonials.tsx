@@ -38,21 +38,21 @@ const Testimonials = () => {
           <TestimonyCard
             image={me}
             author="David"
-            authorOcupation="Founder of Vanya.io"
+            authorOcupation="Founder of GreatThings"
             testimony="“Job well done! I am really impressed. He is very very good at what he does:) I would recommend David and will rehire in the future for Frontend development.”"
           />
 
           <TestimonyCard
             image={me}
             author="David"
-            authorOcupation="Founder of Vanya.io"
+            authorOcupation="Founder of GreatThings"
             testimony="“Job well done! I am really impressed. He is very very good at what he does:) I would recommend David and will rehire in the future for Frontend development.”"
           />
 
           <TestimonyCard
             image={me}
             author="David"
-            authorOcupation="Founder of Vanya.io"
+            authorOcupation="Founder of GreatThings"
             testimony="“Job well done! I am really impressed. He is very very good at what he does:) I would recommend David and will rehire in the future for Frontend development.”"
           />
         </div>

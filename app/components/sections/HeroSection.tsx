@@ -10,7 +10,7 @@ import { FaXTwitter } from "react-icons/fa6";
 
 const HeroSection = () => {
   return (
-    <section className="w-full h-[100vh] px-[5%] flex min-h-[500px] items-center bg-[#030712] max-lg:py-16 max-md:pt-40">
+    <section className="w-full h-[100vh] px-[5%] flex min-h-[500px] items-center bg-[#030712] max-lg:py-16 max-md:pt-100">
       <div className="w-full flex gap-12 justify-around max-lg:flex-wrap-reverse max-lg:justify-center">
         <section className="flex flex-col gap-6 text-gray-100 text-[14px] max-lg:gap-8 max-sm:gap-6">
           <div className="flex flex-col gap-4 max-w-[600px] max-lg:max-w-full">
@@ -55,9 +55,9 @@ const HeroSection = () => {
               <CiLinkedin className="size-[30px] text-green-300 hover:text-white"/>
             </Link>
           </div>
-          <button className="py-3 px-4 w-fit rounded-[8px] whitespace-nowrap border-none bg-[#86efac] text-black outline-none leading-none hover:bg-white hover:text-black">
+          <Link href="/CV.pdf"  className="py-3 px-4 w-fit rounded-[8px] whitespace-nowrap border-none bg-[#86efac] text-black outline-none leading-none hover:bg-white hover:text-black" target="_blank">
             Download CV
-          </button>
+          </Link>
         </section>
 
         <section>
