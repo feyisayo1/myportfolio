@@ -10,7 +10,7 @@ import { FaXTwitter } from "react-icons/fa6";
 
 const HeroSection = () => {
   return (
-    <section className="w-full h-[100vh] px-[5%] flex min-h-[500px] items-center bg-[#030712] max-lg:py-16 max-md:pt-100">
+    <section className="w-full h-[100vh] px-[5%] flex min-h-[500px] items-center bg-[#030712] ">
       <div className="w-full flex gap-12 justify-around max-lg:flex-wrap-reverse max-lg:justify-center">
         <section className="flex flex-col gap-6 text-gray-100 text-[14px] max-lg:gap-8 max-sm:gap-6">
           <div className="flex flex-col gap-4 max-w-[600px] max-lg:max-w-full">
@@ -62,7 +62,7 @@ const HeroSection = () => {
 
         <section>
           {/* <div className="flex h-[320px] w-[280px] justify-center relative max-lg:w-[320px] max-lg:items-center max-sm:h-[280px] max-sm:w-[260px] "> */}
-            <div className="picture1 h-[320px] rounded-2xl w-[280px] border-[8px] br max-lg:relative max-lg:bottom-[20px] max-sm:h-[280px] max-sm:w-[240px] max-sm:border-[5px] max-sm:bottom-[10px]">
+            <div className="picture1 h-[320px] rounded-2xl w-[280px] border-[8px] br  max-lg:bottom-[20px] max-sm:h-[280px] max-sm:w-[240px] max-sm:border-[5px] max-sm:bottom-[10px]">
           
             </div>
           {/* </div> */}

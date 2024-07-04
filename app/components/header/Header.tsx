@@ -53,7 +53,7 @@ const Header = () => {
 const ResponsiveHeader = () => {
 
   return (
-    <main className="hidden z-10 fixed justify-between text-gray-600 px-[5%] py-4 w-full dark:text-gray-100 bg-[#111827] max-md:flex max-lg:top-[-20]">
+    <main className="hidden z-10 justify-between text-gray-600 px-[5%] py-4 w-full dark:text-gray-100 bg-[#111827] max-md:flex max-lg:top-[-20]">
       <h1 className="font-semibold text-[20px] max-md:text-[18px] max-sm:text-[16px] border-b-[3px] border-black">
         <p>O<span className="text-green-300">G</span></p>
       </h1>
