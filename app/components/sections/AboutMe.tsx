@@ -6,7 +6,7 @@ const AboutMe = () => {
   return (
     <section
       id="about"
-      className="flex w-full px-[5%] bg-[#111827] py-14 items-center justify-center "
+      className="flex w-full px-[5%] bg-[#111827] py-14 items-center justify-center max-lg:py-16"
     >
       <div className="w-full flex flex-col gap-8">
         <div className="flex w-full h-fit items-center justify-center">
