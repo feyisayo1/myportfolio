@@ -38,7 +38,7 @@ const AboutMe = () => {
               </p>
 
               <p>
-                I began my journey as a web developer in 2022, joined an Online teaching school{" "}
+                I began my journey as a web developer in 2021, joined an Online teaching school{" "}
               <Link
                 href="https://altschoolafrica.com"
                 className="text-[15px] text-green-300 hover:text-white"
