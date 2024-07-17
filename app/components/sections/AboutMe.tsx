@@ -44,7 +44,7 @@ const AboutMe = () => {
                 className="text-[15px] text-green-300 hover:text-white"
               >
                 <span className="inline-flex items-center underline">AltSchoolAfrica <TbExternalLink className="size-[15px]"/></span>
-              </Link>{" "} in 2023  gradurated 2024 and since then, I
+              </Link>{" "} in 2023  graduated 2024 and since then, I
                 have continued to grow and evolve as a developer,
                  I love building cutting-edge web applications
                 using modern technologies such as Next.js, TypeScript,
