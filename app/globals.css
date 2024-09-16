@@ -28,11 +28,11 @@
     width: 7px;
   }
 
-  /* track */
+  /* track */ 
   ::-webkit-scrollbar-track{
-    box-shadow: 0 0 5px white;
     border-radius: 7px;
   }
+    /* box-shadow: 0 0 5px white; */
 
   /* handle */
   ::-webkit-scrollbar-thumb{

@@ -22,12 +22,12 @@ const GetInTouch = () => {
         </div>
 
         <div className="flex flex-col gap-4 text-white text-[20px] font-medium max-md:text-[18px] max-sm:text-[16px]">
-          <Link href="mailto:greatamaizu@gmail.com" className="flex gap-2">
+          <Link href="mailto:ogunleyedavid34@gmail.com" className="flex gap-2">
             <Message />
             <p>ogunleyedavid34@gmail.com</p>
           </Link>
 
-          <Link href="tel:07047739348" className="flex gap-2">
+          <Link href="tel:+2348121200853" className="flex gap-2">
             <CallCalling />
             <p>+234 8121200853</p>
           </Link>
