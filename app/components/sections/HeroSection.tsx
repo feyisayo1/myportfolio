@@ -62,7 +62,7 @@ const HeroSection = () => {
 
         <section>
           {/* <div className="flex h-[320px] w-[280px] justify-center relative max-lg:w-[320px] max-lg:items-center max-sm:h-[280px] max-sm:w-[260px] "> */}
-            <div className="picture1 h-[320px] rounded-2xl w-[280px] border-[8px] br max-lg:relative max-lg:bottom-[20px] max-sm:h-[280px] max-sm:w-[240px] max-sm:border-[5px] max-sm:bottom-[10px] max-md:mt-[12rem]">
+            <div className="picture1 h-[320px] rounded-2xl w-[280px] border-[8px] br max-lg:relative max-lg:bottom-[20px] max-sm:h-[280px] max-sm:w-[240px] max-sm:border-[5px] max-sm:bottom-[10px] max-md:mt-[12rem] max-sm:mt-[20rem]"> 
           
             </div>
           {/* </div> */}
