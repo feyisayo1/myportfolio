@@ -54,8 +54,8 @@ const ResponsiveHeader = () => {
 
   return (
     <main className="hidden z-10 fixed justify-between text-gray-600 px-[5%] py-4 w-full dark:text-gray-100 bg-[#111827] max-md:flex max-lg:top-[-20]">
-      <h1 className="font-semibold text-[20px] max-md:text-[18px] max-sm:text-[16px] border-b-[3px] border-black">
-        <p>O<span className="text-green-300">G</span></p>
+      <h1 className="font-semibold text-[20px] max-md:text-[18px] max-sm:text-[16px] border-b-[3px] border-white">
+        <p className="text-green-300">OG</p>
       </h1>
       <ShowNavBar />
     </main>
@@ -68,7 +68,7 @@ const ResponsiveHeader = () => {
     <header className="flex z-20 text-gray-600 px-[5%] py-4 w-full top-0 right-full max-md:py-0 max-md:px-0 max-md:pl-[5%] max-md:flex-col max-md:h-screen bg-gray-900 max-sm:pl-[10%] max-md:fixed sticky">
       <div className="flex w-full h-full justify-between max-md:flex-col max-md:justify-start">
         <div className="flex items-center justify-between max-md:border-b max-md:p-4 max-md:dark:border-gray-700">
-          <h1 className="font-semibold text-[20px] max-md:text-[18px] max-sm:text-[16px]  border-b-[3px] border-black">
+          <h1 className="font-semibold text-[20px] max-md:text-[18px] max-sm:text-[16px]  border-b-[3px] border-white">
             <p className="text-green-300">OG</p>
           </h1>
         {headerActive && <HideNavBar />}

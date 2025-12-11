@@ -43,7 +43,7 @@ const GetInTouch = () => {
             <Link href="https://x.com/_ichbindavid" className="flex p-[6px]" target="_blank">
               <FaXTwitter className="size-[25px] text-green-300 hover:text-white"/>
             </Link>
-            <Link href="https://www.linkedin.com/in/ogunleye-david-8a9b22194/" className="flex p-[6px]" target="_blank">
+            <Link href="https://www.linkedin.com/in/david-ogunleye-8a9b22194?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bt7jw1lznQj6s6L%2FRvJ87dQ%3D%3D" className="flex p-[6px]" target="_blank">
               <CiLinkedin className="size-[30px] text-green-300 hover:text-white"/>
             </Link>
           </div>

@@ -14,18 +14,20 @@ const Experience = () => {
 
         
         <div className="w-full flex flex-col items-center gap-12 flex-wrap">
-            <div className="flex w-[90%] p-9 gap-12 justify-between rounded shadow-md bg-gray-800 text-white max-lg:flex-col max-lg:gap-6 max-lg:w-full">
-              {/* <Image src={Logo} alt="Swiftally Logo" className=" w-[180px]"/> */}
-
-              <h1>Logo goes here!</h1>
+            <div className="flex w-[90%] p-9 gap-12 justify-between rounded shadow-md bg-gray-800 text-white max-lg:flex-col max-lg:gap-6 max-lg:w-full items-center">
+              <div>
+                <Image src={"https://kjk.africa/admin/public/logo/1597391459.png"} alt="Swiftally Logo" width={180} height={120} className="w-[180px] object-contain" />
+              </div>
 
               <div className="flex flex-col gap-2">
                 <h3 className="text-[18px] text-white">Frontend Developer</h3>
-                <li>Used Next.js For The Frontend</li>
-                <li>Used Taiwind Css For The Styling</li>
+                <ul className="list-disc pl-5">
+                  <li>Used Next.js for the frontend</li>
+                  <li>Used Tailwind CSS for the styling</li>
+                </ul>
               </div>
 
-              <p className="text-[12px]">Nov 2023 - Present</p>
+              <p>2021</p>
             </div>
         </div>
         
